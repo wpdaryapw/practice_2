@@ -1,0 +1,14 @@
+[35mDEBUG   [0m base_request_logger:main.py:33 Отправка GET запроса на: https://jsonplaceholder.typicode.com/posts/4
+[35mDEBUG   [0m base_request_logger:main.py:53 Пример GET запроса
+[35mDEBUG   [0m base_request_logger:main.py:54 https://jsonplaceholder.typicode.com/posts/4
+[35mDEBUG   [0m base_request_logger:main.py:55 Код состояния: 200
+[35mDEBUG   [0m base_request_logger:main.py:56 Причина: OK
+[35mDEBUG   [0m base_request_logger:main.py:57 Текст ответа: {
+  "userId": 1,
+  "id": 4,
+  "title": "eum et est occaecati",
+  "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+}
+[35mDEBUG   [0m base_request_logger:main.py:58 JSON ответа: {'userId': 1, 'id': 4, 'title': 'eum et est occaecati', 'body': 'ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit'}
+[35mDEBUG   [0m base_request_logger:main.py:59 **********
+[35mDEBUG   [0m base_request_logger:main.py:191 Получена информация о посте: {'userId': 1, 'id': 4, 'title': 'eum et est occaecati', 'body': 'ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit'}

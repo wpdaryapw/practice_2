@@ -1,0 +1,14 @@
+[35mDEBUG   [0m base_request_logger:main.py:37 Отправка POST запроса на: https://jsonplaceholder.typicode.com/posts/
+[35mDEBUG   [0m base_request_logger:main.py:53 Пример POST запроса
+[35mDEBUG   [0m base_request_logger:main.py:54 https://jsonplaceholder.typicode.com/posts/
+[35mDEBUG   [0m base_request_logger:main.py:55 Код состояния: 201
+[35mDEBUG   [0m base_request_logger:main.py:56 Причина: Created
+[35mDEBUG   [0m base_request_logger:main.py:57 Текст ответа: {
+  "title": "Post 1",
+  "body": "Body of Post 1",
+  "userId": "1",
+  "id": 101
+}
+[35mDEBUG   [0m base_request_logger:main.py:58 JSON ответа: {'title': 'Post 1', 'body': 'Body of Post 1', 'userId': '1', 'id': 101}
+[35mDEBUG   [0m base_request_logger:main.py:59 **********
+[35mDEBUG   [0m base_request_logger:main.py:164 Создан пост с заголовком: Post 1, телом: Body of Post 1, userID: 1

@@ -1,0 +1,14 @@
+[35mDEBUG   [0m base_request_logger:main.py:41 Отправка PUT запроса на: https://jsonplaceholder.typicode.com/users/2
+[35mDEBUG   [0m base_request_logger:main.py:53 Пример PUT запроса
+[35mDEBUG   [0m base_request_logger:main.py:54 https://jsonplaceholder.typicode.com/users/2
+[35mDEBUG   [0m base_request_logger:main.py:55 Код состояния: 200
+[35mDEBUG   [0m base_request_logger:main.py:56 Причина: OK
+[35mDEBUG   [0m base_request_logger:main.py:57 Текст ответа: {
+  "name": "Vasiliy",
+  "username": "breewer",
+  "email": "bearrr@ya.ru",
+  "id": 2
+}
+[35mDEBUG   [0m base_request_logger:main.py:58 JSON ответа: {'name': 'Vasiliy', 'username': 'breewer', 'email': 'bearrr@ya.ru', 'id': 2}
+[35mDEBUG   [0m base_request_logger:main.py:59 **********
+[35mDEBUG   [0m base_request_logger:main.py:138 Обновлен пользователь с ID 2 с именем: Vasiliy, username: breewer, email: bearrr@ya.ru

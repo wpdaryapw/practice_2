@@ -1,0 +1,14 @@
+[35mDEBUG   [0m base_request_logger:main.py:37 Отправка POST запроса на: https://jsonplaceholder.typicode.com/users/
+[35mDEBUG   [0m base_request_logger:main.py:53 Пример POST запроса
+[35mDEBUG   [0m base_request_logger:main.py:54 https://jsonplaceholder.typicode.com/users/
+[35mDEBUG   [0m base_request_logger:main.py:55 Код состояния: 201
+[35mDEBUG   [0m base_request_logger:main.py:56 Причина: Created
+[35mDEBUG   [0m base_request_logger:main.py:57 Текст ответа: {
+  "name": "Sasha",
+  "username": "Horus",
+  "email": "hrw@mail.ru",
+  "id": 11
+}
+[35mDEBUG   [0m base_request_logger:main.py:58 JSON ответа: {'name': 'Sasha', 'username': 'Horus', 'email': 'hrw@mail.ru', 'id': 11}
+[35mDEBUG   [0m base_request_logger:main.py:59 **********
+[35mDEBUG   [0m base_request_logger:main.py:121 Создан пользователь с именем: Sasha, username: Horus, email: hrw@mail.ru

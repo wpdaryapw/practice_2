@@ -1,0 +1,14 @@
+[35mDEBUG   [0m base_request_logger:main.py:41 Отправка PUT запроса на: https://jsonplaceholder.typicode.com/posts/1
+[35mDEBUG   [0m base_request_logger:main.py:53 Пример PUT запроса
+[35mDEBUG   [0m base_request_logger:main.py:54 https://jsonplaceholder.typicode.com/posts/1
+[35mDEBUG   [0m base_request_logger:main.py:55 Код состояния: 200
+[35mDEBUG   [0m base_request_logger:main.py:56 Причина: OK
+[35mDEBUG   [0m base_request_logger:main.py:57 Текст ответа: {
+  "title": "Updated Post 1",
+  "body": "Updated Body of Post 1",
+  "userId": "1",
+  "id": 1
+}
+[35mDEBUG   [0m base_request_logger:main.py:58 JSON ответа: {'title': 'Updated Post 1', 'body': 'Updated Body of Post 1', 'userId': '1', 'id': 1}
+[35mDEBUG   [0m base_request_logger:main.py:59 **********
+[35mDEBUG   [0m base_request_logger:main.py:179 Обновлен пост с ID 1 с заголовком: Updated Post 1, телом: Updated Body of Post 1, userID: 1

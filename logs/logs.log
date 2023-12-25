@@ -1,0 +1,9 @@
+2023-12-25 11:45:53,859 - DEBUG - Отправка POST запроса на: http://localhost:3000/users/
+2023-12-25 11:45:53,961 - DEBUG - Отправка GET запроса на: http://localhost:3000/users/4
+2023-12-25 11:45:54,027 - DEBUG - Отправка GET запроса на: http://localhost:3000/users/
+2023-12-25 11:47:10,464 - DEBUG - Отправка POST запроса на: http://localhost:3000/users/
+2023-12-25 11:47:10,556 - DEBUG - Отправка GET запроса на: http://localhost:3000/users/4
+2023-12-25 11:47:10,619 - DEBUG - Отправка GET запроса на: http://localhost:3000/users/
+2023-12-25 11:48:40,397 - DEBUG - Отправка POST запроса на: http://localhost:3000/users/
+2023-12-25 11:48:40,494 - DEBUG - Отправка GET запроса на: http://localhost:3000/users/4
+2023-12-25 11:48:40,562 - DEBUG - Отправка GET запроса на: http://localhost:3000/users/
